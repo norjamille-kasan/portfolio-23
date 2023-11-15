@@ -1,4 +1,12 @@
-<script lang="ts" setup></script>
+<script lang="ts" setup>
+useSeoMeta({
+  title: 'Norjamille Kasan - Portfolio',
+  ogTitle: 'Norjamille Kasan - Portfolio',
+  description: 'Fullstack Web Developer',
+  ogDescription: 'Fullstack Web Developer',
+  ogImage: '/image.png',
+})
+</script>
 
 <template>
   <div class="mx-auto max-w-3xl">
