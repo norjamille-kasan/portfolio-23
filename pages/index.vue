@@ -2,8 +2,8 @@
 useSeoMeta({
   title: 'Norjamille Kasan - Portfolio',
   ogTitle: 'Norjamille Kasan - Portfolio',
-  description: 'Fullstack Web Developer',
-  ogDescription: 'Fullstack Web Developer',
+  description: 'Versatile software developer fluent in front-end and back-end development. Specialized in crafting dynamic, user-centric websites and proficient in seamless web application deployment. Dedicated to driving impactful digital solutions through innovative coding expertise.',
+  ogDescription: 'Versatile software developer fluent in front-end and back-end development. Specialized in crafting dynamic, user-centric websites and proficient in seamless web application deployment. Dedicated to driving impactful digital solutions through innovative coding expertise.',
   ogImage: '/image.png',
 })
 </script>
