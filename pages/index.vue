@@ -56,7 +56,7 @@
               <path fill="#41B883" d="m0 0l128 220.8L256 0h-51.2L128 132.48L50.56 0H0Z" />
               <path fill="#35495E" d="M50.56 0L128 133.12L204.8 0h-47.36L128 51.2L97.92 0H50.56Z" />
             </svg>
-            <span class="pl-2 text-xl"> Vue</span>
+            <span class="pl-2 text-xl"> Vue JS</span>
           </UButton>
           <UButton color="white">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-10 w-10" viewBox="0 0 256 168">
